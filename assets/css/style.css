@@ -13,12 +13,9 @@
     padding: 8px ;
     border-radius: 50%;
     font-size: 15px;
-    
     text-align: center;
-    color: #fafafa;
-    background: #6d6c69;
-    
+    color: white;
+    background-color: #c1a480;
+
 }
-.col-sm-end li a i :hover {
-    background: #e84610;
-}
+
