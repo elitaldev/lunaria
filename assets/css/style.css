@@ -4,3 +4,21 @@
     color: #c1a480;
     padding-left: 3rem;
 }
+
+.list-inline-item {
+    padding-bottom: 15px;
+}
+.col-sm-end li a i {
+   
+    padding: 8px ;
+    border-radius: 50%;
+    font-size: 15px;
+    
+    text-align: center;
+    color: #fafafa;
+    background: #6d6c69;
+    
+}
+.col-sm-end li a i :hover {
+    background: #e84610;
+}
