@@ -4,10 +4,25 @@
     background-color: #f6eedf;
 }
 
-.logo-color {
-    color: #979782;
-}
-
 .nav-text{
     color: #979782;
+}
+#reasons {
+    width: 280px;
+    margin-left: auto;
+    
+}
+.roller-image{
+    width: 280px;
+    
+    margin-top: auto;
+}
+
+.logo-text {
+    padding-right: auto;
+    margin-right: 10px;
+}
+
+.nav-link {
+color: #979782;
 }
