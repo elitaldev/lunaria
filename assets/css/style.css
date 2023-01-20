@@ -1,21 +1,5 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 
-.nav-link {
-    color: #c1a480;
-    padding-left: 3rem;
-}
-
-.list-inline-item {
-    padding-bottom: 15px;
-}
-.col-sm-end li a i {
-   
-    padding: 8px ;
-    border-radius: 50%;
-    font-size: 15px;
-    text-align: center;
-    color: white;
+.bs-nav-color {
     background-color: #c1a480;
-
 }
-
