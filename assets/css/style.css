@@ -7,11 +7,6 @@
 .nav-text{
     color: #979782;
 }
-#reasons {
-    width: 280px;
-    margin-left: auto;
-    
-}
 
 
 .logo-text {
@@ -26,5 +21,10 @@ color: #979782;
 .text-display {
     color: #f6eedf;
 }
+
+.footer {
+    background-color: #979782;
+}
+
 
 
