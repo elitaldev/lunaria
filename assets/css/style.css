@@ -22,6 +22,8 @@ color: #979782;
     color: #f6eedf;
 }
 
+
+
 .footer {
     background-color: #979782;
 }
@@ -29,12 +31,16 @@ color: #979782;
 
 .bs-form-background {
 background-image: url(/assets/images/pexels-leaf.jpg);
+padding-top: 165px;
 
 
 }
 
-.bs-price-backgroun{
-   background-image: url(/assets/images/pexels-pampas.jpg) ;
+.bs-price-background{
+   background-image: url(/assets/images/pexels-pampas2.jpg) ;
+   background-repeat: no-repeat;
+   background: cover;
+   
    
    
 }
