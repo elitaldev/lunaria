@@ -32,3 +32,14 @@ background-image: url(/assets/images/pexels-leaf.jpg);
 
 
 }
+
+.bs-price-backgroun{
+   background-image: url(/assets/images/pexels-pampas.jpg) ;
+   
+   
+}
+
+.bs-card {
+    background-color: #f6eedf;
+    border-radius:20%;
+}
