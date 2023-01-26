@@ -1,8 +1,13 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+
 .bs-nav-color {
     background-color: #f6eedf;
+   
 }
+
 
 .nav-text{
     color: #979782;
@@ -10,6 +15,8 @@
 
 
 .logo-text {
+   
+
     padding-right: auto;
     margin-right: 10px;
 }
@@ -24,14 +31,16 @@ color: #979782;
 
 
 
-.footer {
-    background-color: #979782;
-}
+
 
 
 .bs-form-background {
 background-image: url(/assets/images/pexels-leaf.jpg);
 padding-top: 165px;
+background-repeat: no-repeat;
+background-size: cover;
+height: 850px;
+
 
 
 }
@@ -45,6 +54,8 @@ padding-top: 165px;
    
 }
 
-.top-header {
-    background-color: #979782;
+.text-style {
+   
+
 }
+
