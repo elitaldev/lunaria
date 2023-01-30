@@ -3,12 +3,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
 
 
+
+
+
+
+
 .bs-nav-color {
     background-color: #d1d1c9;
 
 }
 
+.bs-font a.nav-link {
+    
+    color: #53531f;
+    
+}
 
+.bs-image {
+    padding: inherit;
+}
+
+.bs-text {
+    font-family: playfair;
+}
+
+.dr-text {
+    font-family: playfair;
+    border-color: #979782;
+   
+    
+}
 
 
 .navbar .navbar-nav .nav-link:hover {
@@ -20,6 +44,7 @@
 
 .bs-body {
     background-color: #979782;
+    
 }
 
 
@@ -29,22 +54,17 @@
     color: #979782;
 }
 
-.text-display {
-    color: red;
-}
+
 
 
 #hero h1 {
-    color:#d1d1c9;
+    color:#212107;
     margin-bottom: 10px;
     font-weight: 300;
     font-family:Playfair ;
+   
 }
 
-#hero img {
-    padding-top: 165px;
-    width: auto;
-}
 
 .bs-image {
     position: relative;
@@ -75,7 +95,9 @@
 }
 
 
-
+.form-style {
+    background-color:#eee9e1;
+}
 
 
 .social-links {

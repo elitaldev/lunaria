@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>LUNARIA BEAUTY</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -11,18 +11,13 @@
 </head>
 
 <body class="bs-body">
-  <div class="nav fixed-top">
+  <div class="nav sticky-top">
     <header class="container-fluid py-3 border-bottom bs-nav-color">
-      <div class="container d-flex flex-wrap align-items-center justify-content-center">
+      <div class="container col-2 d-flex flex-wrap align-items-center justify-content-center">
         <a href="/" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
-          <span class="fs-3 p-2 border border-dark logo-text">LUNARIA BEAUTY</span>
+          <span class="bs-text text-center fs-3 p-2 shadow-lg border border-dark logo-text">LUNARIA BEAUTY</span>
         </a>
-        <div class="fs-4 logo-colorgit nav-text">
-          <i class="bi bi-facebook p-2"></i>
-          <i class="bi bi-instagram p-2"></i>
-          <i class="bi bi-whatsapp p-2"></i>
-          <i class="bi bi-envelope p-2"></i>
-        </div>
+        
       </div>
     </header>
     <!-----------------------------------------------------------------------------------navbar-->
@@ -46,7 +41,7 @@
                 aria-expanded="false">
                 TREATMENTS
               </a>
-              <ul class="dropdown-menu">
+              <ul class="dr-text dropdown-menu">
                 <li><a class="dropdown-item" href="#">Hydra Facial</a></li>
                 <li>
                   <a class="dropdown-item" href="#">Pregnancy Facial</a>
@@ -61,7 +56,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link px-5" href="#">TESTIMONIALS</a>
+              <a class="nav-link px-5" href="/testimonials.html">TESTIMONIALS</a>
             </li>
             <li class="nav-item">
               <a class="nav-link px-5" href="/contact.html">CONTACT</a>
@@ -75,13 +70,15 @@
 
   <!----------------------------------------------------------------------------------------------border-->
 
-  <div class=" bg-image container-fluid">
-    <img src="/assets/images/pexels-pampas2b.jpg" class="img-fluid w-100" alt="..." />
+  <div class="bs-image container-fluid">
+    <img src="/assets/images/123123b.jpg" class=" w-100" alt="..." />
   </div>
 
-  <div class="bs-facials p-5 border-start-0">
-    <div class="mx-auto" style="width: 200px">
-      <h1>FACIALS</h1>
+  <div class="bs-facials p-5 border-start-0 text-center">
+    <div >
+      <h1 >FACIALS</h1>
+      <p class="fw-semibold">REFER A FREIND AND GET 10% OFF</p>
+  
     </div>
 
   </div>
@@ -116,7 +113,7 @@
         <div class="text-style text-center col-sm-6">
           <div class="row mb-2">
             <div class="col-2"></div>
-            <div class="col-8 d-flex justify-content-center"><img src="/assets/images/hero.jpg" class="rounded-circle"
+            <div class="col-8 d-flex justify-content-center"><img src="/assets/images/canva-mask.jpg" class="rounded-circle"
                 alt="Cinque Terre" width="100%"></div>
           </div>
           <h5>HYDRAFACIALS 380 / 60 MIN</h5>
@@ -132,16 +129,12 @@
           <h5>3 SESSIONS £250</h5>
           <h5>6 SESSIONS £450</h5>
           <br /><br />
-          <h5>HYDRAFACIAL DELUXE £100 / 90 MIN</h5>
-
-          <p class="fw-semibold">
-            WITH LED LIGHT THERAPY &LUMPHATIC DRAINAGE
-          </p>
+          
         </div>
         <div class="text-style text-center col-sm-6">
           <div class="row mb-2">
             <div class="col-2"></div>
-            <div class="col-8 d-flex justify-content-center"><img src="/assets/images/hero.jpg" class="rounded-circle"
+            <div class="col-8 d-flex justify-content-center"><img src="/assets/images/canva-facial.jpg" class="rounded-circle"
                 alt="Cinque Terre" width="100%"></div>
           </div>
           <h5>RF-SKIN TIGHTENING £60 / MIN</h5>
@@ -154,6 +147,13 @@
           <p class="fw-semibold">HIGHT FREQUENCY & ULTRASONIC PENETRATION</p>
           <h5>3 SESSIONS £205</h5>
           <h5>6 SESSIONS £390</h5>
+          <br>
+
+          <h5>HYDRAFACIAL DELUXE £100 / 90 MIN</h5>
+
+          <p class="fw-semibold">
+            WITH LED LIGHT THERAPY &LUMPHATIC DRAINAGE
+          </p>
 
           <br>
           <br>
@@ -161,7 +161,7 @@
         <div class="text-style text-center col-sm-6">
           <div class="row mb-2">
             <div class="col-2"></div>
-            <div class="col-8 d-flex justify-content-center"><img src="/assets/images/hero.jpg" class="rounded-circle"
+            <div class="col-8 d-flex justify-content-center"><img src="/assets/images/canva-eye.jpg" class="rounded-circle"
                 alt="Cinque Terre" width="100%"></div>
           </div>
           <h5>CHEMICAL PEEL £90 / 60 MIN</h5>
@@ -186,10 +186,24 @@
 
   </section>
   </div>
+   <!-------------------------------------------------------------------------------footer-->
+   <div class="col-md-12 text-center pb-3">
+    <a class="col-5 my-6 btn btn-outline-light" aria-current="page" href="#">BACK TO TO TOP</a>
+  </div>
   <footer class="container-fluid">
     <div id="footer-details" class="row text-center">
       <div class="col">
-        <h5 class="uppercase general-sub">SOCIAL</h5>
+        <nav class="navbar">
+          <div class="container-fluid">
+              <form class="d-flex" role="search">
+                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                  <button class="btn btn-outline-secondary" type="submit">
+                      Search
+                  </button>
+              </form>
+          </div>
+      </nav>
+        <h5 class="uppercase general-sub"></h5>
         <ul class="list-inline social-links">
           <li class="list-inline-item">
             <a target="_blank" href="#">
@@ -225,7 +239,7 @@
       </div>
     </div>
   </footer>
-  <!-------------------------------------------------------------------------------footer-->
+ 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
     crossorigin="anonymous"></script>
