@@ -13,14 +13,14 @@
     
 }
 
-.navbar {
+.shadow {
     box-shadow: 0px 2px 5px #777;
    
 }
 
 .bs-font a.nav-link {
     
-    color: #525242;
+    color: #212107;
     font-family: playfair;
     
 }

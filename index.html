@@ -14,8 +14,8 @@
   </head>
 
   <body class="bs-body">
-    <div class="nav sticky-top">
-      <header class="navbar container-fluid py-3 border-bottom bs-nav-color">
+    <div class="nav">
+      <header class="shadow container-fluid py-3 border-bottom bs-nav-color">
         <div
           class="container col-2 d-flex flex-wrap align-items-center justify-content-center"
         >
@@ -24,82 +24,57 @@
             class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none"
           >
             <span
-              class="bs-text text-center fs-3 p-2 shadow-lg border border-dark logo-text"
+              class="bs-text text-center shadow-lg fs-3 p-2 border border-dark logo-text"
               >LUNARIA BEAUTY</span
             >
           </a>
         </div>
       </header>
-      <!-------------------------------------------------------------------------------navbar-->
-
-      <nav
-        class="navbar bs-font container-fluid navbar navbar-expand-lg bg-body-tertiary"
-      >
-        <div class="container">
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a
-                  class="bi bi-house-fill nav-link active me-1 px-5"
-                  aria-current="page"
-                  href="/index.html"
-                  >HOME</a
-                >
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/pricelist.html">PRICE LIST</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle px-5"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  TREATMENTS
-                </a>
-                <!-------------------------------------------------------------------dropdown-->
-                <ul class="dr-text dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Hydra Facial</a></li>
-                  <li>
-                    <a class="dropdown-item" href="#">Pregnancy Facial</a>
-                  </li>
-                  <li><a class="dropdown-item" href="#">Bespoke 60</a></li>
-                  <li>
-                    <a class="dropdown-item" href="#">RF-Skin Tightening</a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="#"
-                      >Under Eye Microneedling</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link px-5" href="/testimonials.html"
-                  >TESTIMONIALS</a
-                >
-              </li>
-              <li class="nav-item">
-                <a class="nav-link px-5" href="/contact.html">CONTACT</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
     </div>
+    <!-------------------------------------------------------------------------------navbar-->
+
+    <nav
+      class="navbar shadow bs-font container-fluid navbar-expand-lg bg-body-tertiary sticky-top"
+    >
+      <div class="container">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a
+                class="bi bi-house-fill nav-link me-1 px-5 active"
+                aria-current="page"
+                href="/index.html"
+              >
+                HOME</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link px-5" href="/pricelist.html">PRICE LIST</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link px-5" href="/testimonials.html"
+                >TESTIMONIALS</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link px-5" href="/contact.html">CONTACT</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
     <!-------------------------------------------------------------------------------------section-->
     <section id="hero">
       <div class="bs-image container">
@@ -196,14 +171,14 @@
             class="card-img-top"
             alt="..."
           />
-          <div class="card-body">
+          <div class="ba-text card-body">
             <h5 class="bs-text card-title">Under Eye Microneedling</h5>
             <br />
-            <p class="lead my-4 text-muted card-text">
+            <p class="bs-text lh-1 lead my-4 text-muted card-text">
               If full face microneedling isn't for you, This Treatment Targets
               The Under-Eye Area.
             </p>
-            <p class="lh-1 lead my-4 text-muted">
+            <p class="bs-text lh-1 lead my-4 text-muted">
               Treatment Process is the same where jelly mask, LED light therapy,
               and finishing products are included.
             </p>
@@ -222,7 +197,7 @@
     <footer class="container-fluid">
       <div id="footer-details" class="row text-center">
         <div class="col">
-          <nav class="navbar">
+          <nav class="navbar shadow">
             <div class="container-fluid">
               <form class="d-flex" role="search">
                 <input
