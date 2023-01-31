@@ -31,6 +31,7 @@
 
 .bs-text {
     font-family: playfair;
+    text-shadow: 2px 2px 5px rgb(224, 211, 211);
 }
 
 .dr-text {
@@ -64,10 +65,12 @@
 
 
 #hero h1 {
-    color:#212107;
+    color:#fff;
     margin-bottom: 10px;
     font-weight: 300;
     font-family:Playfair ;
+    text-shadow: 2px 2px 5px rgb(10, 1, 1);
+    
    
 }
 
