@@ -10,12 +10,18 @@
 
 .bs-nav-color {
     background-color: #d1d1c9;
+    
+}
 
+.navbar {
+    box-shadow: 0px 2px 5px #777;
+   
 }
 
 .bs-font a.nav-link {
     
-    color: #53531f;
+    color: #525242;
+    font-family: playfair;
     
 }
 
