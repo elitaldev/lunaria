@@ -31,14 +31,20 @@
 
 .bs-text {
     font-family: playfair;
-    text-shadow: 2px 2px 5px rgb(224, 211, 211);
+    text-shadow: 2px 2px 5px rgb(248, 246, 246);
+  
 }
 
 .dr-text {
     font-family: playfair;
     border-color: #979782;
+    
    
     
+}
+
+.bs-text-p {
+    font-family: playfair;
 }
 
 
@@ -143,3 +149,8 @@
     
 }
 
+.map {
+    width: 500px;
+    height: 200px;
+    
+}
