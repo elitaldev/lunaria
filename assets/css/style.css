@@ -88,22 +88,30 @@
 
 
 .bs-form-background {
-    background-image: url(/assets/images/pexels-leaf.jpg);
-    padding-top: 165px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 850px;
-
-
-
-}
-
-.bs-price-background {
-    background-image: url(/assets/images/pexels-pampas2.jpg);
+    background-image: url(/assets/images/canva-euca2.jpg);
     background-repeat: no-repeat;
     background: cover;
+    font-family: playfair;
+    box-shadow:  5px 10px 20px #979782 inset;;
+    
+}
+
+.form {
+ box-shadow:  5px 10px 8px 10px #888888;
 
 }
+
+.form-control {
+    border-color: #979782;
+}
+
+.form-label {
+    color: #212107;
+   font-weight: bolder;
+}
+
+
+
 
 .text-style {
     font-family: Playfair;
