@@ -1,12 +1,13 @@
-# SCOOPS Ice Cream Parlour 
+# Lunaria BEAUTY 
 
 [View live project here on GitHub](https://amylour.github.io/scoops_pp1/)
 
-SCOOPS Ice-Cream Parlour is a family-run, local business in Mullingar, Co.Westmeath. Providing home-baked warm goods, memorable ice-cream desserts, and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site intended to be a clear, dependable reference for every visit.  
+  
+lunaria beauty is a small, local business in the heart of london. who look after your skin in our lovley, warm clinic surrounded with freindly team who can give you the best advice for taking care of your skin and younger.
 
 <br>  
   
-![screenshot of landing page](/assets/images/canva-eye.jpg)
+![screenshot of landing page](/assets/images/pexels.jpg)
 
 ---
 
@@ -57,24 +58,32 @@ SCOOPS Ice-Cream Parlour is a family-run, local business in Mullingar, Co.Westme
   
 SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlour's traditional flavours and aesthetic. 
 
+Lunaria beauty, friendly, proffesional, trained team nedded a clear and simple website design so they can improve there business in local area.
 ### **Visitor Goals** 
 
-SCOOPS customers vary in age and it was a requirement that the website is straight to the point and easy to use for those seeking information about the menu, location, and opening times. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for the opening times and location of the shop to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
+lunaria beauty is mostly for women who's looking to Prevent further damage both from light/sun and the environment to there skin;
+ Keeping our skin looking beautiful by optimizing hydration, barrier function and cell turnover, and minimizing irritation
+Helping to repair past superficial damage to skin.
+which cannot repair deep damage to skin with skin care products. They don’t go deep enough.
+In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
+
+  
 
 ### **First Time Visitor**
   - A user can access each page of the site with one click via the navigation bar.
-  - A user can access the menu and prices via the button located at the center of the landing page.
-  - A user can view the opening times and location via the footer.
-  - A user can find a map to the parlour via the navigation bar and footer.
+  - A user can access the menu and prices via the button located on the navbar called pricelist.
+  - A user can view our social media address in footer.
+  - A user can find a map on the contact page.
 
 ### **Returning Visitor**  
-  - A user can quickly access the menu via the landing page to check menu options and prices.
-  - A user can learn about the business ethos by scrolling down the landing page.
-  - A user can find social media links in the footer to learn more about SCOOPS.
+
+  - A user can quickly access the menu via the landing page.
+  - A user can learn about the treatments on the landing page.
+  - A user can find social media links in the footer to learn more about lunaria.
   - A user can use the contact form to connect with the business.
   
 ### **Frequent Visitor**  
-  - A user can see opening hours quickly by scrolling down the landing page.
+
   - A user can view the social media links to check for menu updates.    
 
 --- 
@@ -85,20 +94,25 @@ SCOOPS customers vary in age and it was a requirement that the website is straig
 
 
 - I required an easy-to-read, dependable website that delivers clear information about menu options and opening times.  
-- Location of the shop must be visible and social media links available.  
-- The retro aesthetic of SCOOPS is to be carried on throughout the website with the use of consistent, clean design and use of graphics and colour to evoke an emotional and familiar connection for the user.  
-- Pricing within the menu page is to be transparent and simple.  
+- Location of the clinic must be visible and social media links available.  
+- clean and simple design and use of graphics and colour to motivate the user.  
+- Pricing within the pricelist page is to be transparent and simple.  
 - Mobile responsiveness is an essential feature required for this website.
   
 
-### **2. Scope**  
+### **2. Scope** 
 
-The SCOOPS site must be available on a wide range of devices due to the varied range of customer ages. A large portion of their client base is the retired, over-60 age group, comprising mostly of grandparents bringing their grandchildren out for a weekly treat. SCOOPS provides a comfortable, no-fuss, homely environment for its dine-in patrons and they wished for this to be reflected in the website.  
+A large portion of their clients are young women age 20 to 40 who are looking for the best treatments and they want to prevent pf any kind of damage and wrinkle to their skin, and they want to spend an hour calmly in quite place, feeling relax.
+
+  
 
 - The site is to contain only essential information, presented in a similar fashion and layout.   
 - Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.  
 - A brief history of the business is to be included on the landing page.  
-- For future development, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials, and candid shots of customers and staff.
+- For future development, the testimonials page ahs focused on befor and after the treatment so clients can introduce lunaria to their friends.
+
+
+
   
 
 ### **3. Structural**  
