@@ -82,6 +82,11 @@
    
 }
 
+.top-menu {
+    border-bottom: 2.5px solid #474723;
+}
+
+
 
 .bs-image {
     position: relative;
@@ -90,7 +95,7 @@
 
 
 .bs-form-background {
-    background-image: url(/assets/images/canva-euac.jpg);
+    background-image: url(./assets/images/canva-euac.jpg);
     background-repeat: no-repeat;
     background: cover;
     font-family: playfair;

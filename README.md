@@ -1,272 +1,265 @@
-# Lunaria BEAUTY 
+# Lunaria BEAUTY
 
 [View live project here on GitHub](https://amylour.github.io/scoops_pp1/)
 
-  
 lunaria beauty is a small, local business in the heart of london. who look after your skin in our lovley, warm clinic surrounded with freindly team who can give you the best advice for taking care of your skin and younger.
 
 <br>  
   
-![screenshot of landing page](/assets/images/pexels.jpg)
+![screenshot of landing page](/docs/landing-page-lunaria.png)
 
 ---
 
-## CONTENTS  
-  
-* [UXD (User Experience Design)](#user-experience-ux)
-  * [User Stories](#user-stories) 
-* [Creation process (Strategy -> Surface)](#creation-process)
-  * [Wireframes](#wireframes)
-* [Design](#design)
-  * [Colour Scheme](#color-scheme)
-  * [Typography](#typography)
-  * [Imagery](#imagery)
-* [Page Features](#page-features)
-  * [Navbar](#navbar)
-  * [Hero-Image](#hero-image)
-  * [Tagline & Call to Action](#tagline--call-to-action)
-  * [Business Ethos](#business-ethos)
-  * [Menu Page](#menu-page)
-  * [Contact Page](#contact-page)
-  * [Footer](#footer)  
-* [Tablet & Mobile View](#tablet--mobile-view)
-  * [Desktop, Tablet & Mobile Differences](#desktop-tablet--mobile-differences)
-  * [Tablet View](#tablet-view-ipad-miniipad-prosurface-pro)
-  * [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
-* [Future Features](#future-features)
-* [Technologies Used](#technologies-used)
-  * [Languages Used](#languages-used)
-  * [Frameworks, Libraries, Technologies & Programs Used](#frameworks-libraries-technologies--programs-used)
-* [Deployment](#deployment)
-  * [How to deploy](#how-to-deploy)
-* [Testing](#testing)
-  * [HTML Validation using W3C Validation](#html-validation-using-w3c-validation)
-  * [CSS Validation using W3C Validation](#css-validation-using-w3c-validation)
-  * [Lighthouse scores via Chrome Developer Tools](#lighthouse-scores-via-chrome-developer-tools)
-  * [Bugs & Fixes](#bugs--fixes)
-  * [Unsolved Bugs](#unsolved-bugs)
-* [Credits](#credits) 
+## CONTENTS
 
-  
----    
+- [UXD (User Experience Design)](#user-experience-ux)
+  - [User Stories](#user-stories)
+- [Creation process (Strategy -> Surface)](#creation-process)
+  - [Wireframes](#wireframes)
+- [Design](#design)
+  - [Colour Scheme](#color-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+- [Page Features](#page-features)
+  - [Navbar](#navbar)
+  - [Hero-Image](#hero-image)
+  - [Tagline & Call to Action](#tagline--call-to-action)
+  - [Business Ethos](#business-ethos)
+  - [Menu Page](#menu-page)
+  - [Contact Page](#contact-page)
+  - [Footer](#footer)
+- [Tablet & Mobile View](#tablet--mobile-view)
+  - [Desktop, Tablet & Mobile Differences](#desktop-tablet--mobile-differences)
+  - [Tablet View](#tablet-view-ipad-miniipad-prosurface-pro)
+  - [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
+- [Future Features](#future-features)
+- [Technologies Used](#technologies-used)
+  - [Languages Used](#languages-used)
+  - [Frameworks, Libraries, Technologies & Programs Used](#frameworks-libraries-technologies--programs-used)
+- [Deployment](#deployment)
+  - [How to deploy](#how-to-deploy)
+- [Testing](#testing)
+  - [HTML Validation using W3C Validation](#html-validation-using-w3c-validation)
+  - [CSS Validation using W3C Validation](#css-validation-using-w3c-validation)
+  - [Lighthouse scores via Chrome Developer Tools](#lighthouse-scores-via-chrome-developer-tools)
+  - [Bugs & Fixes](#bugs--fixes)
+  - [Unsolved Bugs](#unsolved-bugs)
+- [Credits](#credits)
 
-## User Experience (UX)  
-  
-### **User Stories**  
+---
 
-### **Primary Goal**  
-  
-SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlour's traditional flavours and aesthetic. 
+## User Experience (UX)
+
+### **User Stories**
+
+### **Primary Goal**
+
+SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlour's traditional flavours and aesthetic.
 
 Lunaria beauty, friendly, proffesional, trained team nedded a clear and simple website design so they can improve there business in local area.
-### **Visitor Goals** 
+
+### **Visitor Goals**
 
 lunaria beauty is mostly for women who's looking to Prevent further damage both from light/sun and the environment to there skin;
- Keeping our skin looking beautiful by optimizing hydration, barrier function and cell turnover, and minimizing irritation
+Keeping our skin looking beautiful by optimizing hydration, barrier function and cell turnover, and minimizing irritation
 Helping to repair past superficial damage to skin.
 which cannot repair deep damage to skin with skin care products. They don’t go deep enough.
-In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
-
-  
+In addition, an interactive Google Map would be needed to direct those not familiar with the town.
 
 ### **First Time Visitor**
-  - A user can access each page of the site with one click via the navigation bar.
-  - A user can access the menu and prices via the button located on the navbar called pricelist.
-  - A user can view our social media address in footer.
-  - A user can find a map on the contact page.
 
-### **Returning Visitor**  
+- A user can access each page of the site with one click via the navigation bar.
+- A user can access the menu and prices via the button located on the navbar called pricelist.
+- A user can view our social media address in footer.
+- A user can find a map on the contact page.
 
-  - A user can quickly access the menu via the landing page.
-  - A user can learn about the treatments on the landing page.
-  - A user can find social media links in the footer to learn more about lunaria.
-  - A user can use the contact form to connect with the business.
-  
-### **Frequent Visitor**  
+### **Returning Visitor**
 
-  - A user can view the social media links to check for menu updates.    
+- A user can quickly access the menu via the landing page.
+- A user can learn about the treatments on the landing page.
+- A user can find social media links in the footer to learn more about lunaria.
+- A user can use the contact form to connect with the business.
 
---- 
+### **Frequent Visitor**
 
-## Creation Process  
-  
-### **1. Strategy**  
+- A user can view the social media links to check for menu updates.
 
+---
 
-- I required an easy-to-read, dependable website that delivers clear information about menu options and opening times.  
-- Location of the clinic must be visible and social media links available.  
-- clean and simple design and use of graphics and colour to motivate the user.  
-- Pricing within the pricelist page is to be transparent and simple.  
+## Creation Process
+
+### **1. Strategy**
+
+- I required an easy-to-read, dependable website that delivers clear information about menu options and opening times.
+- Location of the clinic must be visible and social media links available.
+- clean and simple design and use of graphics and colour to motivate the user.
+- Pricing within the pricelist page is to be transparent and simple.
 - Mobile responsiveness is an essential feature required for this website.
-  
 
-### **2. Scope** 
+### **2. Scope**
 
-A large portion of their clients are young women age 20 to 40 who are looking for the best treatments and they want to prevent pf any kind of damage and wrinkle to their skin, and they want to spend an hour calmly in quite place, feeling relax.
+A large portion of their clients are young women age 20 to 40 who are looking for the best treatments and they want to prevent of any kind of damage and wrinkle to their skin, and they want to spend an hour calmly in a quite place, feeling relax.
 
-  
+- The site is to contain only essential information, presented in a similar fashion and layout.
+- Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.
+-
+- For future development, the testimonials page has focused on before and after the treatment so clients can introduce lunaria to their friends.
 
-- The site is to contain only essential information, presented in a similar fashion and layout.   
-- Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.  
-- A brief history of the business is to be included on the landing page.  
-- For future development, the testimonials page ahs focused on befor and after the treatment so clients can introduce lunaria to their friends.
+### **3. Structural**
 
+- Similar to the idea for the design and layout to be accessible and functional, simple navigation were essential. The site needed to provide information to encourage young women to take care of their skin.
+- Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.
+- A large, clear button to bring the user directly to the menu would be placed front and center of their eye-line.
+- In addition, a navigation bar and footer would be visible,where navigation bar sticked at the top of the page when you scrooled down in every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information destination.
 
+### **4. Skeleton**
 
-  
+The site was developed to be simple, clear, and relax.
 
-### **3. Structural**  
+- For the landing page, the logo, lunaria beauty, was to be at the center of every page, no matter the orientation or screen size.
+- The simple, four-item navigation bar of 'Home', 'price list', testimonials and 'Contact', is situated always to the middle of the page and undeneath the logo. An underline feature identifying the current page and also a hover on the menu.
+- A large, clear image dominates the landing page with a close-up view of a woman feeling fresh and fabolouse.
+- right side of the image, clickable button situated on the image which takes you to the contact page and testimonials page. First-time visitors have access to the menu with one easy click.
 
-Similar to the idea for the design and layout to be accessible and functional, simple navigation and interactivity were essential. The site needed to provide information swiftly no matter the age of the user.  
-- Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.  
-- Any buttons or links had to provide feedback to the user to identify their purpose in the form of a design change that followed the flow of the overall aesthetic.  
-- A large, clear button to bring the user directly to the menu would be placed front and center of their eye-line.  
-- In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information destination, strengthening the site's familiar and trusting feeling.  
+- The page ends with the footer, where the social media has placed.
 
-  
-### **4. Skeleton**  
+- For the price list page, the navigation bar and footer remain as before. included all the treatments and the time of the treatments, offers and all the prices with very good size of image which has describe almost all the treatments.
+- For the contact us page, the navigation and footer remain as before. big size of eucalyptus leaf behine the form is intoducing the freshnes of the clinic to the client. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. There is an option to enlarge the map in a new window and find directions.
 
-The site was developed to be simple, clear, and familiar.  
+### Wireframes
 
-- For the landing page, the logo, SCOOPS, was to be top-left of every page, no matter the orientation or screen size.  
-- The simple, three-item navigation bar of 'Home', 'Menu', and 'Contact', is situated always to the right of the logo. An underline feature identifying the current page and whether a cursor or touch was accurate.  
-- A large, clear image dominates the landing page with a close-up view of the available ice cream flavours, their texture visible.  
-- Centered in the image is a tagline with a large, clickable button situated immediately below it. First-time visitors have access to the menu with one easy click.  
-- For returning or curious visitors, scrolling down the page introduces them to a brief, three-piece of information section about the SCOOPS business. Images are visible on one side of the headed paragraphs.  
-- The page ends with the footer, again offering three pieces of important information to the user, opening times, location, and social media.  
-
-- For the menu page, the navigation bar and footer remain as before. Between these lies the menu items laid out in identifiable, headed sections. An image of the most requested dessert features at the end of the menu, to assist the visitors' decision.  
-  
-- For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. There is an option to enlarge the map in a new window and find directions.  
-- Below the map again are the location details for the shop with a phone number to contact them.  
-
-### Wireframes  
 <details open>
-<summary>Wireframe - Homepage Desktop & Mobile</summary>  
+<summary>Wireframe - Homepage Desktop & Mobile</summary>
 
 ![homepage wireframe-mobile & desktop](docs/documentation/homemd_wireframe.png)
+
 </details> 
 <details >
-<summary>Wireframe - Menu page Desktop</summary>  
+<summary>Wireframe - Menu page Desktop</summary>
 
 ![homepage wireframe-mobile & desktop](docs/documentation/menudesktop_wireframe.png)
+
 </details> 
 <details>
-<summary>Wireframe - Menu page Mobile</summary>  
+<summary>Wireframe - Menu page Mobile</summary>
 
 ![homepage wireframe-mobile & desktop](docs/documentation/menumobile_wireframe.png)
+
 </details>    
 <details>
-<summary>Wireframe - Contact page Desktop</summary>  
+<summary>Wireframe - Contact page Desktop</summary>
 
 ![homepage wireframe-mobile & desktop](docs/documentation/contactdesktop_wireframe.png)
+
 </details> 
 <details>
-<summary>Wireframe - Contact page Mobile</summary>  
+<summary>Wireframe - Contact page Mobile</summary>
 
 ![homepage wireframe-mobile & desktop](docs/documentation/contactmobile_wireframe.png)
-</details>              
 
-### **5. Surface**  
+</details>
 
- A design was created that allowed a consistent flow throughout the three-page site.   
- - A background was designed to reflect the cone wrapper used by the SCOOPS parlour. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand.  
-- A palette of blues and reds was created, similar to the interior of the parlour.  
-- A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. 
-- Corners on all elements were rounded to maintain a retro feel. 
+### **5. Surface**
 
-Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.  
- 
----   
-  
-  
-## Design  
+- A design was created that allowed a consistent flow throughout the three-page site.
 
-### **Color Scheme**  
+- A palette of blues and reds was created, similar to the interior of the parlour.
+- A clean, playfair, was used in a medium weight to provide legible text at any size.
+- back to top buttons has settled in all the pages to make it easy for the visitors when the y scroll down.
 
-This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
-  
-![colour theme swatches](docs/documentation/colourtheme.png)  
-  
-I experienced an issue with the contrast ratio for my buttons. The ratio of the (#78D5F7) blue and (#F53636) red fell short of the acceptable [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio. To fix this and increase the accessibility of my site I used different shades of these colours to conform.  
-  
-![Colour contrast ratio for buttons](docs/documentation/buttoncontrast.png)  
-  
-[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
-  
+## Design
+
+### **Color Scheme**
+
+This website used a fresh, bold palette of grey and greenish warm color to capture the aesthetic of a beauty. The colours reminded me of feeling fresh and relax. I combined these with an off-white shade for the field of the form.
+
+![colour theme swatches](/assets/images/My%20Palette.jpg)
+
+![Colour contrast ratio for buttons](docs/documentation/buttoncontrast.png)
+
+[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.
+
 ![Color Blind Safe Check](docs/documentation/cb_safe.png)
-  
-### **Typography**  
-  
-[Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
-  
-![google Fonts Josefin Sans](docs/documentation/josefinfont.png)
 
-        
-### **Imagery**  
-  
-The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close-ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
+### **Typography**
 
----  
-  
+[Google Fonts](https://fonts.google.com/) was used to import the fonts 'playfair' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with playfair to keep the font consistent.
 
-## Page Features  
+![google Fonts playfair](docs/documentation/josefinfont.png)
 
-### **Navbar**   
+### **Imagery**
+
+The images that I have chosen for my site reflect the freshness. A large image sits below the menu options, it shows the freshness and looking good and taking car of your skin. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [canva.com](https://canva.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
+
+---
+
+## Page Features
+
+### **Navbar**
+
 <details open>
-<summary></summary>  
+<summary></summary>
 
-![screenshot of navbar](docs/documentation/navbar.png) 
+![screenshot of navbar](docs/documentation/navbar.png)
+
 </details>
 This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
   
-<br>  
+<br>
 
-### **Hero Image**  
+### **Hero Image**
+
 <details open>  
 <summary></summary>
 
-![screenshot of hero image](docs/documentation/heroimage.png)  
+![screenshot of hero image](docs/documentation/heroimage.png)
+
 </details>
-The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.  
+The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.
 
-<br> 
+<br>
 
-### **Tagline & Call to Action**  
+### **Tagline & Call to Action**
+
 <details open>
-<summary></summary> 
+<summary></summary>
 
-![screenshot of tagline and button](docs/documentation/tagline.png)  
+![screenshot of tagline and button](docs/documentation/tagline.png)
+
 </details>
 The tagline image has its opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
 
 <br>
 
-### **Business Ethos**  
+### **Business Ethos**
+
 <details> 
 <summary></summary>
 
-![screenshot of ethos and images](docs/documentation/aboutus.png)  
+![screenshot of ethos and images](docs/documentation/aboutus.png)
 
-![screenshot of ethos and images](docs/documentation/dairy.png)  
+![screenshot of ethos and images](docs/documentation/dairy.png)
 
-![screenshot ethos and images](docs/documentation/hereortogo.png)  
+![screenshot ethos and images](docs/documentation/hereortogo.png)
+
 </details>
-Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.  
+Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.
 
 <br>
   
 ### **Menu Page** 
 <details>
-<summary></summary> 
+<summary></summary>
 
-![screenshot of menu page](docs/documentation/menu.png)  
+![screenshot of menu page](docs/documentation/menu.png)
+
 </details>
 The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
 
 <br>
 
-### **Contact Page**  
+### **Contact Page**
+
 <details>
 <summary></summary> 
  
@@ -276,73 +269,70 @@ Similar to the menu page design. Two sections for contacting the business with a
 
 <br>
 
-### **Footer**  
+### **Footer**
+
 <details>
 <summary></summary>
 
-![screenshot of footer](docs/documentation/footer.png) 
+![screenshot of footer](docs/documentation/footer.png)
+
 </details>
-The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.  
+The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.
 
----   
+---
 
+## Tablet & Mobile View
 
-## Tablet & Mobile View  
- 
-### **Desktop, Tablet & Mobile Differences**  
-  
+### **Desktop, Tablet & Mobile Differences**
+
 To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections, and contact sections were displayed in a row format for desktops but this switched to a column for smaller screen sizes. The header and footer remained the same, whilst images were resized to fit the display.
-  
-### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**  
-  
+
+### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**
+
 ![screenshots of SCOOPS website on ipad pro](docs/documentation/tablet_view.png)
 
+### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)**
 
-### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)**  
-  
 ![screenshot of SCOOPS website on iPhone 12 Pro](docs/documentation/mobile_view.png)
 
----  
-                              
+---
 
-## Future Features  
+## Future Features
 
-- For future development, I would like to include an ordering system on the website to allow customers to order menu items for takeaway and a form element for larger orders to cater for parties and events.  
+- For future development, I would like to include an ordering system on the website to allow customers to order menu items for takeaway and a form element for larger orders to cater for parties and events.
 - An embedded video of the in-house ice cream production, showing customers how to make ice cream from beginning to end.
 - A gallery page of dessert specials, events held at the parlour, and candid photos of customers and staff.
-  
----   
-  
 
-## Technologies Used    
+---
 
-### **Languages Used**   
+## Technologies Used
+
+### **Languages Used**
 
 - HTML5
 - CSS3
 
-### **Frameworks, Libraries, Technologies & Programs Used**  
+### **Frameworks, Libraries, Technologies & Programs Used**
 
-- Procreate - used to create wireframes and edit images 
-- GitHub - used to save and store all files for this website  
+- Procreate - used to create wireframes and edit images
+- GitHub - used to save and store all files for this website
 - Git - used for version control
-- Google Fonts - fonts were imported from here 
-- Font Awesome - icons and their associated kit were downloaded from here  
-- Adobe Color - for all color palettes and accessibility contrast ratios  
-- Favicon.io - for ice cream favicon  
-- Tiny PNG - to compress images 
-- Google Dev Tools - to debug and for testing responsiveness 
+- Google Fonts - fonts were imported from here
+- Font Awesome - icons and their associated kit were downloaded from here
+- Adobe Color - for all color palettes and accessibility contrast ratios
+- Favicon.io - for ice cream favicon
+- Tiny PNG - to compress images
+- Google Dev Tools - to debug and for testing responsiveness
 - Google Lighthouse - for auditing the website
-- W3C Validator - for validating the HTML and CSS code 
+- W3C Validator - for validating the HTML and CSS code
 
----   
- 
+---
 
 ## Deployment
 
-### **How to deploy**  
+### **How to deploy**
 
-GitHub was used to deploy the website. These were the steps taken to acheive this:  
+GitHub was used to deploy the website. These were the steps taken to acheive this:
 
 1. Login to GitHub account
 2. Navigate to the project repository, scoops_pp1
@@ -352,123 +342,136 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
-![screenshot of how to deploy site on github](docs/documentation/deployment.png) 
+![screenshot of how to deploy site on github](docs/documentation/deployment.png)
 
----  
-    
+---
 
-## Testing  
+## Testing
 
 ### **Initial testing plan**
 
-I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information with one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site halfway through to test on real-world devices. These devices included:  
-- Acer Aspire 3 Laptop (1920 X 1080)  
+I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information with one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site halfway through to test on real-world devices. These devices included:
+
+- Acer Aspire 3 Laptop (1920 X 1080)
 - Huawei AD80HW 24" Monitor
 - iPad Pro 2021
 - iPhone SE(2016)
-- Huawei p30 Lite 
+- Huawei p30 Lite
 - iPhone 11/13
-- Samsung Galaxy s10 
-  
-### **Testing**    
+- Samsung Galaxy s10
 
-Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:  
-- Chrome  
-- Firefox  
-- Edge  
-- Safari  
-  
-The results of feature testing are as follows:  
-  
-| Page | Test | Pass/Fail |
-| :----| :----| :--------:|
-| All  | SCOOPS logo links back to homepage | Pass |
-| All  | Underline appears under navigation items when the mouse hovers | Pass |
-| All  | Underline stays under active navigation item | Pass |
-| All  | Navigation links bring the user to relevant page | Pass |
-| All  | Footer social media icons bring the user to relevant sites via a new tab | Pass |
-| All  | 'Find Us' heading in footer links to contact page | Pass |
-| All  | Images and sections are responsive in different media sizes | Pass |
-| Index| Hero image zooms in on loading | Pass |
-| Index| Call to Action button links to menu page | Pass | 
-| Menu | Menu is scrollable | Pass |
-| Menu | Menu items are clear and legible | Pass |
-| Contact | Contact form required elements are responsive | Pass |
-| Contact | Form submit button brings you to a validation page | Pass |
-| Contact | Google Map is interactive and opens in a new tab for a larger map | Pass |
+### **Testing**
+
+Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:
+
+- Chrome
+- Firefox
+- Edge
+- Safari
+
+The results of feature testing are as follows:
+
+| Page    | Test                                                                     | Pass/Fail |
+| :------ | :----------------------------------------------------------------------- | :-------: |
+| All     | SCOOPS logo links back to homepage                                       |   Pass    |
+| All     | Underline appears under navigation items when the mouse hovers           |   Pass    |
+| All     | Underline stays under active navigation item                             |   Pass    |
+| All     | Navigation links bring the user to relevant page                         |   Pass    |
+| All     | Footer social media icons bring the user to relevant sites via a new tab |   Pass    |
+| All     | 'Find Us' heading in footer links to contact page                        |   Pass    |
+| All     | Images and sections are responsive in different media sizes              |   Pass    |
+| Index   | Hero image zooms in on loading                                           |   Pass    |
+| Index   | Call to Action button links to menu page                                 |   Pass    |
+| Menu    | Menu is scrollable                                                       |   Pass    |
+| Menu    | Menu items are clear and legible                                         |   Pass    |
+| Contact | Contact form required elements are responsive                            |   Pass    |
+| Contact | Form submit button brings you to a validation page                       |   Pass    |
+| Contact | Google Map is interactive and opens in a new tab for a larger map        |   Pass    |
 
 Further device testing took place in Dev Tools on:
-  - iPhone 4/5/6/7/8
-  - iPhone XR/ iPhone 12 Pro
-  - Pixel 5
-  - Samsung Galaxy s20
 
- 
-### **HTML Validation using W3C Validation**  
+- iPhone 4/5/6/7/8
+- iPhone XR/ iPhone 12 Pro
+- Pixel 5
+- Samsung Galaxy s20
+
+### **HTML Validation using W3C Validation**
+
 <details open>
-<summary>Index/landing page HTML validation</summary>  
+<summary>Index/landing page HTML validation</summary>
 
 ![screenshot of index page w3c html validation for SCOOPS](docs/documentation/w3c_index.png)
+
 </details>   
 <details>
-<summary>Menu page HTML validation</summary>  
+<summary>Menu page HTML validation</summary>
 
 ![screenshot of menu page w3c html validation for SCOOPS](docs/documentation/w3c_menu.png)
+
 </details>  
 <details>
-<summary>Contact page HTML validation</summary>  
+<summary>Contact page HTML validation</summary>
 
 ![screenshot of contact page w3c html validation for SCOOPS](docs/documentation/w3c_contact.png)
+
 </details>  
   
-<br>  
+<br>
 
-### **CSS Validation using W3C Validation** 
+### **CSS Validation using W3C Validation**
 
 <details open>
-<summary>SCOOPS CSS validation</summary>  
+<summary>SCOOPS CSS validation</summary>
 
 ![screenshot of CSS validation for SCOOPS](docs/documentation/w3c_css.png)
-</details>   
 
-<br>  
+</details>
 
-### **Lighthouse scores via Chrome Developer Tools**   
-  
-For Desktop   
+<br>
+
+### **Lighthouse scores via Chrome Developer Tools**
+
+For Desktop
+
 <details open>
-<summary>Lighthouse audit for Index page</summary>  
+<summary>Lighthouse audit for Index page</summary>
 
 ![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/lighthouse_index.png)
+
 </details> 
 <details >
-<summary>Lighthouse audit for Menu page</summary>  
+<summary>Lighthouse audit for Menu page</summary>
 
 ![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/lighthouse_menu.png)
+
 </details>
 <details >
-<summary>Lighthouse audit for Contact page</summary>  
+<summary>Lighthouse audit for Contact page</summary>
 
 ![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/lighthouse_contact.png)
-</details>      
+
+</details>
 
 <br>
   
 For Mobile   
 <details open>
-<summary>Lighthouse audit for Index page - Mobile</summary>  
+<summary>Lighthouse audit for Index page - Mobile</summary>
 
 ![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/mobileindex_lighthouse.png)
+
 </details> 
 <details >
-<summary>Lighthouse audit for Menu page - Mobile</summary>  
+<summary>Lighthouse audit for Menu page - Mobile</summary>
 
 ![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/mobilemenu_lighthouse.png)
+
 </details>
 <details >
-<summary>Lighthouse audit for Contact page - Mobile</summary>  
+<summary>Lighthouse audit for Contact page - Mobile</summary>
 
 ![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/mobilecontact_lighthouse.png)
+
 </details>      
   
   
@@ -484,7 +487,7 @@ For Mobile
 | Index page styling disappeared | Index/Home page | Due to commenting out the wrong section of CSS code, I had caused styling on my home page to disappear. Checking the code, I spotted the error and rectified it. |
 | Textarea misalignment | Contact page | Due to a developer mistype, I had altered my CSS code for my contact form textarea. I re-added display:block and margin:auto to center the element again. |
 
-### **Unsolved Bugs** 
+### **Unsolved Bugs**
 
 - On viewing my deployed site on Safari browser, I found the Josefin Sans font to be displayed differently in the header elements. The website is still displayed adequately despite this issue. I will continue my learning to understand how to combat small, browser display differences to discover if I can overcome this.
 
@@ -492,11 +495,12 @@ For Mobile
 
 - Even though my site is responsive on Dev Tools and on real world devices, it does not work on multiple-media, screenshot generating websites like 'ui.dev/amiresponsive'. It appears zoomed in, similar to the viewport meta tag issue as documented above. I have yet to figure out why this is the case.
 
----  
+---
 
-## Credits  
-  
+## Credits
+
 ### **Content References**
+
 - All content written for the website is by myself, is purely fictional, and for educational purposes only.
 - [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning material and 'content zoom' module in the Love Running project.
 - [W3Schools](https://www.w3schools.com/) for additional learning material.
@@ -506,18 +510,16 @@ For Mobile
 - [StackOverflow](https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements) guidance on removing br element from menu li items to improve semantic HTML
 - [Browserstack](https://www.browserstack.com/guide/what-are-css-and-media-query-breakpoints#:~:text=Essentially%2C%20media%20query%20breakpoints%20are,offers%20an%20optimal%20user%20experience.) for media queries and breakpoints guidance.
 - [Elaine Broche](https://github.com/elainebroche-dev/ms1-thrive) Design inspired by Elaine's striking juice website.
-- [Kera Cudmore - Creating your First README](https://github.com/kera-cudmore/readme-examples) for README structure and Markdown guidance. 
-  
+- [Kera Cudmore - Creating your First README](https://github.com/kera-cudmore/readme-examples) for README structure and Markdown guidance.
 
-### **Media References**  
-  
+### **Media References**
+
 - [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), and [Pixabay](https://pixabay.com/) for all images used on this site. Credit to photographers Jonathan Cooper, Lukas, Katie Rainbow, Kyle Hinkson, and Dulce Silvagni.
 - [Font Awesome](https://fontawesome.com/) for the icons used in the footer of this site.
 - [Favicon](https://favicon.io/) for the favicon used for this site.
 - [Google Maps](https://www.google.com/maps) for the map used in this site.
 
+### **Acknowledgements**
 
-### **Acknowledgements** 
 - I would like to acknowledge my Code Institute mentor, Rahul Lakhanpal, for his guidance and encouragement on this project.
 - My family for testing my work and offering positive thoughts and hot cups of tea throughout the project.
-
