@@ -25,6 +25,8 @@
     
 }
 
+
+
 .bs-image {
     padding: inherit;
 }
@@ -88,26 +90,23 @@
 
 
 .bs-form-background {
-    background-image: url(/assets/images/canva-euca2.jpg);
+    background-image: url(/assets/images/canva-euac.jpg);
     background-repeat: no-repeat;
     background: cover;
     font-family: playfair;
-    box-shadow:  5px 10px 20px #979782 inset;;
+  
     
 }
 
-.form {
- box-shadow:  5px 10px 8px 10px #888888;
 
-}
 
 .form-control {
     border-color: #979782;
 }
 
 .form-label {
-    color: #212107;
-   font-weight: bolder;
+    color: #fffff5;
+   font-weight: bold;
 }
 
 
@@ -118,9 +117,6 @@
 }
 
 
-.form-style {
-    background-color:#eee9e1;
-}
 
 
 .social-links {
