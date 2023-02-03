@@ -60,6 +60,7 @@
 .bs-body {
     background-color: #979782;
     
+    
 }
 
 
@@ -91,12 +92,11 @@
 
 
 .bs-form-background {
-    background-image: url("./assets/images/canva-euac.jpg");
+    
+    background-image: url(/lunaria/assets/images/canva-euac.jpg);
     background-repeat: no-repeat;
     background: cover;
     font-family: playfair;
-  
-    
 }
 
 
