@@ -88,14 +88,10 @@
 
 
 
-.bs-image {
-    position: relative;
-}
-
 
 
 .bs-form-background {
-    background-image: url(./assets/images/canva-euac.jpg);
+    background-image: url(/assets/images/canva-euac.jpg);
     background-repeat: no-repeat;
     background: cover;
     font-family: playfair;
@@ -120,6 +116,7 @@
 .text-style {
     font-family: Playfair;
 }
+
 
 
 

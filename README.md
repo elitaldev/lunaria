@@ -311,6 +311,7 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 
 - HTML5
 - CSS3
+- bootstrap
 
 ### **Frameworks, Libraries, Technologies & Programs Used**
 
