@@ -1,6 +1,6 @@
 # Lunaria BEAUTY
 
-[View live project here on GitHub](https://amylour.github.io/scoops_pp1/)
+[View live project here on GitHub]( https://elitaldev.github.io/lunaria/)
 
 lunaria beauty is a small, local business in the heart of london. who look after your skin in our lovley, warm clinic surrounded with freindly team who can give you the best advice for taking care of your skin and younger.
 
@@ -24,14 +24,11 @@ lunaria beauty is a small, local business in the heart of london. who look after
   - [Navbar](#navbar)
   - [Hero-Image](#hero-image)
   - [Tagline & Call to Action](#tagline--call-to-action)
-  - [Business Ethos](#business-ethos)
   - [Menu Page](#menu-page)
   - [Contact Page](#contact-page)
   - [Footer](#footer)
-- [Tablet & Mobile View](#tablet--mobile-view)
-  - [Desktop, Tablet & Mobile Differences](#desktop-tablet--mobile-differences)
-  - [Tablet View](#tablet-view-ipad-miniipad-prosurface-pro)
-  - [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
+- [Desktop](#desktop-tablet--mobile-differences)
+ - [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
 - [Future Features](#future-features)
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
@@ -129,41 +126,35 @@ The site was developed to be simple, clear, and relax.
 ### Wireframes
 
 <details open>
-<summary>Wireframe - Homepage Desktop & Mobile</summary>
+<summary>Wireframe - Homepage Desktop</summary>
 
-![homepage wireframe-mobile & desktop](docs/documentation/homemd_wireframe.png)
+![homepage wireframe- desktop](docs/documentation/homemd_wireframe.png)
 
 </details> 
 <details >
 <summary>Wireframe - Menu page Desktop</summary>
 
-![homepage wireframe-mobile & desktop](docs/documentation/menudesktop_wireframe.png)
+![price list wireframe-desktop](docs/documentation/menudesktop_wireframe.png)
 
 </details> 
 <details>
-<summary>Wireframe - Menu page Mobile</summary>
 
-![homepage wireframe-mobile & desktop](docs/documentation/menumobile_wireframe.png)
+![testimonials wireframe-desktop](docs/documentation/menumobile_wireframe.png)
 
 </details>    
 <details>
 <summary>Wireframe - Contact page Desktop</summary>
 
-![homepage wireframe-mobile & desktop](docs/documentation/contactdesktop_wireframe.png)
+![contact wireframe-desktop](docs/documentation/contactdesktop_wireframe.png)
 
 </details> 
-<details>
-<summary>Wireframe - Contact page Mobile</summary>
 
-![homepage wireframe-mobile & desktop](docs/documentation/contactmobile_wireframe.png)
-
-</details>
 
 ### **5. Surface**
-
+- 
 - A design was created that allowed a consistent flow throughout the three-page site.
 
-- A palette of blues and reds was created, similar to the interior of the parlour.
+- A palette of gray and green was created, similar to the interior of the parlour.
 - A clean, playfair, was used in a medium weight to provide legible text at any size.
 - back to top buttons has settled in all the pages to make it easy for the visitors when the y scroll down.
 
@@ -172,14 +163,6 @@ The site was developed to be simple, clear, and relax.
 ### **Color Scheme**
 
 This website used a fresh, bold palette of grey and greenish warm color to capture the aesthetic of a beauty. The colours reminded me of feeling fresh and relax. I combined these with an off-white shade for the field of the form.
-
-![colour theme swatches](/assets/images/My%20Palette.jpg)
-
-![Colour contrast ratio for buttons](docs/documentation/buttoncontrast.png)
-
-[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.
-
-![Color Blind Safe Check](docs/documentation/cb_safe.png)
 
 ### **Typography**
 
@@ -200,7 +183,7 @@ The images that I have chosen for my site reflect the freshness. A large image s
 <details open>
 <summary></summary>
 
-![screenshot of navbar](docs/documentation/navbar.png)
+![screenshot of navbar](/docs/canva-navbar.jpg)
 
 </details>
 This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
@@ -212,49 +195,43 @@ This remains the same across the three pages, in portrait/landscape and mobile/t
 <details open>  
 <summary></summary>
 
-![screenshot of hero image](docs/documentation/heroimage.png)
+![screenshot of hero image](/assets/images/pexels.jpg)
 
 </details>
 The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.
 
 <br>
 
-### **Tagline & Call to Action**
+### **buttons**
 
 <details open>
 <summary></summary>
 
-![screenshot of tagline and button](docs/documentation/tagline.png)
+![screenshot of button](/docs/canva-button.jpg)
 
 </details>
-The tagline image has its opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
+
+secondary button in a light gray has been set.
+ The back to top button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
 
 <br>
 
-### **Business Ethos**
 
-<details> 
-<summary></summary>
 
-![screenshot of ethos and images](docs/documentation/aboutus.png)
 
-![screenshot of ethos and images](docs/documentation/dairy.png)
 
-![screenshot ethos and images](docs/documentation/hereortogo.png)
-
-</details>
-Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.
-
-<br>
   
 ### **Menu Page** 
 <details>
 <summary></summary>
 
-![screenshot of menu page](docs/documentation/menu.png)
+![screenshot of menu page](/docs/canva-menu.jpg)
 
 </details>
-The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
+good size round image design the wole page with details of all the tratments and the prices,offers and duration of the treatment.
+a large image of women having facial and micronnedling situated at the middle of the page. with greenish nice color background.
+
+ The menu format switches to columnar for the tablet/mobile views.
 
 <br>
 
