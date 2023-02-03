@@ -1,6 +1,6 @@
 # Lunaria BEAUTY
 
-[View live project here on GitHub]( https://elitaldev.github.io/lunaria/)
+[View live project here on GitHub](https://elitaldev.github.io/lunaria/)
 
 lunaria beauty is a small, local business in the heart of london. who look after your skin in our lovley, warm clinic surrounded with freindly team who can give you the best advice for taking care of your skin and younger.
 
@@ -28,7 +28,7 @@ lunaria beauty is a small, local business in the heart of london. who look after
   - [Contact Page](#contact-page)
   - [Footer](#footer)
 - [Desktop](#desktop-tablet--mobile-differences)
- - [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
+- [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
 - [Future Features](#future-features)
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
@@ -123,36 +123,40 @@ The site was developed to be simple, clear, and relax.
 - For the price list page, the navigation bar and footer remain as before. included all the treatments and the time of the treatments, offers and all the prices with very good size of image which has describe almost all the treatments.
 - For the contact us page, the navigation and footer remain as before. big size of eucalyptus leaf behine the form is intoducing the freshnes of the clinic to the client. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. There is an option to enlarge the map in a new window and find directions.
 
+![test](/docs/canva-button.jpg)
+
 ### Wireframes
 
 <details open>
 <summary>Wireframe - Homepage Desktop</summary>
 
-![homepage wireframe- desktop](docs/documentation/homemd_wireframe.png)
+![homepage wireframe- desktop](/docs/home.jpg)
 
 </details> 
 <details >
-<summary>Wireframe - Menu page Desktop</summary>
+<summary>Wireframe - pricelist page Desktop</summary>
 
-![price list wireframe-desktop](docs/documentation/menudesktop_wireframe.png)
+![price list wireframe-desktop](/docs/price%20list.jpg)
+
 
 </details> 
 <details>
 
-![testimonials wireframe-desktop](docs/documentation/menumobile_wireframe.png)
+![testimonials wireframe-desktop](/docs/testimonials.jpg)
 
+<summary>Wireframe - testimonials page Desktop</summary>
 </details>    
 <details>
 <summary>Wireframe - Contact page Desktop</summary>
 
-![contact wireframe-desktop](docs/documentation/contactdesktop_wireframe.png)
+![contact wireframe-desktop](/docs/contact.jpg)
 
-</details> 
-
+</details>
 
 ### **5. Surface**
-- 
-- A design was created that allowed a consistent flow throughout the three-page site.
+
+-
+- A design was created that allowed a consistent flow throughout the four-page site.
 
 - A palette of gray and green was created, similar to the interior of the parlour.
 - A clean, playfair, was used in a medium weight to provide legible text at any size.
@@ -168,7 +172,7 @@ This website used a fresh, bold palette of grey and greenish warm color to captu
 
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'playfair' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with playfair to keep the font consistent.
 
-![google Fonts playfair](docs/documentation/josefinfont.png)
+![google Fonts playfair](/docs/fonts%20-%20Edited.png)
 
 ### **Imagery**
 
@@ -212,26 +216,22 @@ The hero image remains the same across all devices, with it becoming square-shap
 </details>
 
 secondary button in a light gray has been set.
- The back to top button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
+The back to top button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
 
 <br>
 
+### **Menu Page**
 
-
-
-
-  
-### **Menu Page** 
 <details>
 <summary></summary>
 
-![screenshot of menu page](/docs/canva-menu.jpg)
+![](./docs/canva-menu.jpg)
 
 </details>
 good size round image design the wole page with details of all the tratments and the prices,offers and duration of the treatment.
 a large image of women having facial and micronnedling situated at the middle of the page. with greenish nice color background.
 
- The menu format switches to columnar for the tablet/mobile views.
+The menu format switches to columnar for the tablet/mobile views.
 
 <br>
 
@@ -240,9 +240,11 @@ a large image of women having facial and micronnedling situated at the middle of
 <details>
 <summary></summary> 
  
-![screenshot of contact us page](docs/documentation/contact_page.png)  
+![screenshot of contact us page](/docs/canva-contact.jpg)  
 </details>
-Similar to the menu page design. Two sections for contacting the business with a form element and an embedded, interactive Google map, sitting in a row. These elements switch to columnar format for tablet/mobile views.
+
+ 
+big size of background image and a form on the right hand side of the page business with a form element and an embedded, interactive Google map, sitting underneath the image. These elements switch to columnar format for tablet/mobile views.
 
 <br>
 
@@ -251,34 +253,34 @@ Similar to the menu page design. Two sections for contacting the business with a
 <details>
 <summary></summary>
 
-![screenshot of footer](docs/documentation/footer.png)
+![screenshot of footer](/docs/canva-footer.jpg)
 
 </details>
-The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.
+The footer remains the same throughout the design. It contains social media links in the middle of the footer.
 
----
 
 ## Tablet & Mobile View
 
 ### **Desktop, Tablet & Mobile Differences**
 
-To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections, and contact sections were displayed in a row format for desktops but this switched to a column for smaller screen sizes. The header and footer remained the same, whilst images were resized to fit the display.
+To ensure responsivity I used sm and md from bootstrap. and contact sections were displayed in a row format for desktops but this switched to a column for smaller screen sizes. The header and footer remained the same, whilst images were resized to fit the display.
 
 ### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**
 
-![screenshots of SCOOPS website on ipad pro](docs/documentation/tablet_view.png)
+![screenshots of lunaria website on ipad pro](/docs/contact-ipad)
 
 ### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)**
 
-![screenshot of SCOOPS website on iPhone 12 Pro](docs/documentation/mobile_view.png)
+![screenshot of lunaria website on iPhone 12 Pro](/docs/lunaria-mobil.jpg)
 
 ---
 
 ## Future Features
 
-- For future development, I would like to include an ordering system on the website to allow customers to order menu items for takeaway and a form element for larger orders to cater for parties and events.
-- An embedded video of the in-house ice cream production, showing customers how to make ice cream from beginning to end.
-- A gallery page of dessert specials, events held at the parlour, and candid photos of customers and staff.
+- For future development, I would like to include more proffesional images and more hovering.
+an embedded video of facial and skin care routin.
+showing costumer how to take acare of their skin and look younger in their 50s.
+
 
 ---
 
@@ -297,9 +299,7 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 - Git - used for version control
 - Google Fonts - fonts were imported from here
 - Font Awesome - icons and their associated kit were downloaded from here
-- Adobe Color - for all color palettes and accessibility contrast ratios
-- Favicon.io - for ice cream favicon
-- Tiny PNG - to compress images
+
 - Google Dev Tools - to debug and for testing responsiveness
 - Google Lighthouse - for auditing the website
 - W3C Validator - for validating the HTML and CSS code
@@ -320,7 +320,7 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
-![screenshot of how to deploy site on github](docs/documentation/deployment.png)
+![screenshot of how to deploy site on github](/docs/github-jpg)
 
 ---
 
@@ -331,7 +331,7 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information with one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site halfway through to test on real-world devices. These devices included:
 
 - Acer Aspire 3 Laptop (1920 X 1080)
-- Huawei AD80HW 24" Monitor
+
 - iPad Pro 2021
 - iPhone SE(2016)
 - Huawei p30 Lite
@@ -351,16 +351,16 @@ The results of feature testing are as follows:
 
 | Page    | Test                                                                     | Pass/Fail |
 | :------ | :----------------------------------------------------------------------- | :-------: |
-| All     | SCOOPS logo links back to homepage                                       |   Pass    |
+| All     | lunaria logo links back to homepage                                       |   Pass    |
 | All     | Underline appears under navigation items when the mouse hovers           |   Pass    |
 | All     | Underline stays under active navigation item                             |   Pass    |
 | All     | Navigation links bring the user to relevant page                         |   Pass    |
 | All     | Footer social media icons bring the user to relevant sites via a new tab |   Pass    |
-| All     | 'Find Us' heading in footer links to contact page                        |   Pass    |
+| All     | 'book now button take the user to contact page                         |   Pass    |
 | All     | Images and sections are responsive in different media sizes              |   Pass    |
-| Index   | Hero image zooms in on loading                                           |   Pass    |
-| Index   | Call to Action button links to menu page                                 |   Pass    |
-| Menu    | Menu is scrollable                                                       |   Pass    |
+| Index   |                                    
+| Index   |view button take user to price list page                                 |   Pass    |
+| Menu    | 
 | Menu    | Menu items are clear and legible                                         |   Pass    |
 | Contact | Contact form required elements are responsive                            |   Pass    |
 | Contact | Form submit button brings you to a validation page                       |   Pass    |
@@ -378,19 +378,19 @@ Further device testing took place in Dev Tools on:
 <details open>
 <summary>Index/landing page HTML validation</summary>
 
-![screenshot of index page w3c html validation for SCOOPS](docs/documentation/w3c_index.png)
+![screenshot of index page w3c html validation for lunaria](docs/documentation/w3c_index.png)
 
 </details>   
 <details>
 <summary>Menu page HTML validation</summary>
 
-![screenshot of menu page w3c html validation for SCOOPS](docs/documentation/w3c_menu.png)
+![screenshot of menu page w3c html validation for lunarai](docs/documentation/w3c_menu.png)
 
 </details>  
 <details>
 <summary>Contact page HTML validation</summary>
 
-![screenshot of contact page w3c html validation for SCOOPS](docs/documentation/w3c_contact.png)
+![screenshot of contact page w3c html validation for lunaria](docs/documentation/w3c_contact.png)
 
 </details>  
   
@@ -401,7 +401,7 @@ Further device testing took place in Dev Tools on:
 <details open>
 <summary>SCOOPS CSS validation</summary>
 
-![screenshot of CSS validation for SCOOPS](docs/documentation/w3c_css.png)
+![screenshot of CSS validation for lunaria](docs/documentation/w3c_css.png)
 
 </details>
 
@@ -414,19 +414,19 @@ For Desktop
 <details open>
 <summary>Lighthouse audit for Index page</summary>
 
-![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/lighthouse_index.png)
+![screenshot of lighthouse audit for index page for lunaria]()
 
 </details> 
 <details >
 <summary>Lighthouse audit for Menu page</summary>
 
-![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/lighthouse_menu.png)
+![screenshot of lighthouse audit for menu page for lunaria]()
 
 </details>
 <details >
 <summary>Lighthouse audit for Contact page</summary>
 
-![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/lighthouse_contact.png)
+![screenshot of lighthouse audit for contact page for lunaria]()
 
 </details>
 
@@ -436,19 +436,19 @@ For Mobile
 <details open>
 <summary>Lighthouse audit for Index page - Mobile</summary>
 
-![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/mobileindex_lighthouse.png)
+![screenshot of lighthouse audit for index page for lunaria]()
 
 </details> 
 <details >
 <summary>Lighthouse audit for Menu page - Mobile</summary>
 
-![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/mobilemenu_lighthouse.png)
+![screenshot of lighthouse audit for menu page for lunaria]()
 
 </details>
 <details >
 <summary>Lighthouse audit for Contact page - Mobile</summary>
 
-![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/mobilecontact_lighthouse.png)
+![screenshot of lighthouse audit for contact page for lunaria]()
 
 </details>      
   
@@ -499,5 +499,5 @@ For Mobile
 
 ### **Acknowledgements**
 
-- I would like to acknowledge my Code Institute mentor, Rahul Lakhanpal, for his guidance and encouragement on this project.
+- I would like to acknowledge my Code Institute mentor, Richey Malhotra, for his guidance and encouragement on this project.
 - My family for testing my work and offering positive thoughts and hot cups of tea throughout the project.
